@@ -16,7 +16,7 @@ let addChild1 = {
 const db = mysql.createConnection({
   host: "localhost",
   user: "root",
-  password: "Password123",
+  password: "NewPassword",
   database: "babytrackerdb",
   port: 3306,
 });
